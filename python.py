@@ -2,5 +2,5 @@ def foo():
     return "bar"
 
 
-def main():
-    pass
+def main(a, b):
+    return a + b
